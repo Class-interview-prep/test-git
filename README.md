@@ -2,7 +2,7 @@
 
 My best friend is Azat.
 
-
+Added a new pull requests please give approval
 Steps of pull request:
 - fork a repository
 - git clone it to your local machine
